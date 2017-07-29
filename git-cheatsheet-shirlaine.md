@@ -1,4 +1,4 @@
-#Git Commands Learnt
+# Git Commands Learnt
 
 - git status
 - git add .
@@ -6,4 +6,5 @@
 - git commit -m "Initial Commit"
 - git remote add origin 
 - git clone 
-
+- git diff
+- git diff --cached

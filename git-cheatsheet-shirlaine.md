@@ -8,3 +8,7 @@
 - git clone 
 - git diff
 - git diff --cached
+- git push -u origin master
+- git branch
+- git log 
+- git checkout -b 

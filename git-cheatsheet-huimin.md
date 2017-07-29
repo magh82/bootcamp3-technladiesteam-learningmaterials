@@ -6,3 +6,9 @@
 - git add
 - git commit -m “ “
 - git remote add <name> <github url>
+- git pull
+- git push
+
+- git branch = to list out all branches in repo
+- git checkout -b
+- git push origin<local> master<remote>

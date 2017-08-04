@@ -15,3 +15,16 @@
 - to learn how to use relative alignment/bootstrap for app to be desktop and friendly
 
 ## Week 2 - 05 August 2017
+
+1. Write a route (/user/:id) for a get request to a UserController show action
+
+2. Describe the stages that code has to go through in order to become part of the Git history
+ - to save files/folder in local machine
+ - git init > to initialise git into a local repo in the local machine
+ - git add . or git add -A > to add files from the local repo to the staging area
+ - git commit -m "" > to commit the files/folders into the remote repo
+ - git push > to push the files/folders into the remote repo
+
+
+What view template file will be rendered by UsersController#index? State the filepath
+app/view/user/index.html.erb

@@ -17,6 +17,7 @@
 ## Week 2 - 05 August 2017
 
 1. Write a route (/user/:id) for a get request to a UserController show action
+ - get '/user/:id', to: 'user#show'
 
 2. Describe the stages that code has to go through in order to become part of the Git history
  - to save files/folder in local machine
@@ -25,6 +26,5 @@
  - git commit -m "" > to commit the files/folders into the remote repo
  - git push > to push the files/folders into the remote repo
 
-
 What view template file will be rendered by UsersController#index? State the filepath
-app/view/user/index.html.erb
+ - app/view/users/index.html.erb

@@ -15,7 +15,7 @@ class Person
   end
 
   def introduce
-    puts "Hello, my name is #{@name}. I am #{age} years old and work as a #{@occupation}"
+    puts "Hello, my name is #{@name}. I am #{@age} years old and work as a #{@occupation}"
   end
 end
 ```

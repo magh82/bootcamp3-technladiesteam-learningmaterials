@@ -212,7 +212,6 @@ end
   - a flash message will appear in the resulting page and persist to the next action i.e. if we use it before we do anything but redirect, for instance before render, it would appear in the rendered page but is still waiting for a "redirect" request and so will appear again if you click a link.
   - a flash.now message will be displayed in the view you are rendering i.e. available in the same request
 
-
 5. How would you a) write a routing spec to check that the route GET /bootcamps exists and routes
 to the index action of BootcampsController? b) write a routing spec to check that the route
  DELETE /bootcamps/:id does NOT exist? Add your code into the template below:

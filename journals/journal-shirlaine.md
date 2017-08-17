@@ -5,11 +5,11 @@
 
 1. What were some of the tasks that you do not feel comfortable executing by yourself?
 
-	1. Git version control: Many times I had to duplicate the whole file manually, and deleting the entire folder when I messed up (esp for database conversion of sqlite to pg for heroku)
+	- Git version control: Many times I had to duplicate the whole file manually, and deleting the entire folder when I messed up (esp for database conversion of sqlite to pg for heroku)
 
-	2. Device Authentication: Met with alot of problems with this process, not sure when to create new controller, and when to create new model. Got stuck in the log out page loop. Could not render views for sign in and sign out page at first. 
+	-  Device Authentication: Met with alot of problems with this process, not sure when to create new controller, and when to create new model. Got stuck in the log out page loop. Could not render views for sign in and sign out page at first. 
 
-	3. Writing own code: Most of the time I was just copying and pasting code from various sources and thus formatting for my application task was not standardised; Same thing written in different ways.
+	-  Writing own code: Most of the time I was just copying and pasting code from various sources and thus formatting for my application task was not standardised; Same thing written in different ways.
 
 
  2. Compare your app to one that you commonly use on the web. Rate your app on a scale of 1/10. Justify your rating. What are some of the concepts/skills that you need to learn/improve on?
@@ -26,6 +26,12 @@
 			- Ability to post well- formatted images together with the post
 			- Live tweet updating real-time
 			- ETC. 
+
+## Week 1 Recap
+
+1. Write a route (/user/:id) for a get request to a UserController show action
+2. Describe the stages that code has to go through in order to become part of the Git history
+3. What view template file will be rendered by UsersController#index? State the filepath
 
 
 
